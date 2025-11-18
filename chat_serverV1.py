@@ -1,4 +1,3 @@
-chat_server.py
 #!/usr/bin/env python3
 # chat_server.py
 # Usage: python3 chat_server.py [port]
